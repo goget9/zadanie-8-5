@@ -1,7 +1,7 @@
 // scripts.js
 
-var a = 5,
-	h = 10,
+var a = prompt('Enter "a" value'),
+	h = prompt('Enter \'h\' value'),
 	triangleArea;
 
 triangleArea = a*h/2
